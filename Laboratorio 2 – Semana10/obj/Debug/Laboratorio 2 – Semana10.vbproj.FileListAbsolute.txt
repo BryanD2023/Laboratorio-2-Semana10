@@ -1,0 +1,11 @@
+C:\Users\50373\OneDrive\Escritorio\Laboratorio 2 – Semana10\Laboratorio 2 – Semana10\bin\Debug\Laboratorio 2 – Semana10.exe.config
+C:\Users\50373\OneDrive\Escritorio\Laboratorio 2 – Semana10\Laboratorio 2 – Semana10\bin\Debug\Laboratorio 2 – Semana10.exe
+C:\Users\50373\OneDrive\Escritorio\Laboratorio 2 – Semana10\Laboratorio 2 – Semana10\bin\Debug\Laboratorio 2 – Semana10.pdb
+C:\Users\50373\OneDrive\Escritorio\Laboratorio 2 – Semana10\Laboratorio 2 – Semana10\bin\Debug\Laboratorio 2 – Semana10.xml
+C:\Users\50373\OneDrive\Escritorio\Laboratorio 2 – Semana10\Laboratorio 2 – Semana10\obj\Debug\Laboratorio 2 – Semana10.vbproj.AssemblyReference.cache
+C:\Users\50373\OneDrive\Escritorio\Laboratorio 2 – Semana10\Laboratorio 2 – Semana10\obj\Debug\Laboratorio_2___Semana10.Resources.resources
+C:\Users\50373\OneDrive\Escritorio\Laboratorio 2 – Semana10\Laboratorio 2 – Semana10\obj\Debug\Laboratorio 2 – Semana10.vbproj.GenerateResource.cache
+C:\Users\50373\OneDrive\Escritorio\Laboratorio 2 – Semana10\Laboratorio 2 – Semana10\obj\Debug\Laboratorio 2 – Semana10.vbproj.CoreCompileInputs.cache
+C:\Users\50373\OneDrive\Escritorio\Laboratorio 2 – Semana10\Laboratorio 2 – Semana10\obj\Debug\Laboratorio 2 – Semana10.exe
+C:\Users\50373\OneDrive\Escritorio\Laboratorio 2 – Semana10\Laboratorio 2 – Semana10\obj\Debug\Laboratorio 2 – Semana10.xml
+C:\Users\50373\OneDrive\Escritorio\Laboratorio 2 – Semana10\Laboratorio 2 – Semana10\obj\Debug\Laboratorio 2 – Semana10.pdb
